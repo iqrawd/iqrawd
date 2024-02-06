@@ -12,7 +12,7 @@ Hello, friends! 👋 My name is "Iqra Shehzad", and I'm a passionate web develop
 
 ## 🌐 Social Media
 
-- [LinkedIn](www.linkedin.com/in/iqra-shahzad-52a51427b).
+- [LinkedIn](in/iqra-shahzad-52a51427b).
 - [GitHub](https://github.com/yourusername)
 
 ## 📬 Contact
