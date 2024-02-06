@@ -1,36 +1,24 @@
 # My Coding World 🚀
 
-Hello, friends! 👋 My name is [Your Name], and I'm a passionate web developer on a journey of exploration in the realm of technology.
+Hello, friends! 👋 My name is "Iqra Shehzad", and I'm a passionate web developer on a journey of exploration in the realm of technology.
 
 ## 🛠️ Skills
-- **Web Development:** HTML5, CSS, JavaScript
-- **Frontend Development:** ReactJS, VueJS
-- **Backend Development:** Node.js, Express.js
+- **Web Development:** HTML5, CSS, JavaScript.
+- **Frontend Development:** ReactJS.
+- **Backend Development:** Node.js.
 - **Full Stack Development**
-- **Bootstrap:** Responsive web design
-- **Version Control:** Git
-
-## 💼 Portfolio
-
-[Link to Portfolio]
+- **Bootstrap:** Responsive web design.
+- **Version Control:** Git.
 
 ## 🌐 Social Media
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](www.linkedin.com/in/iqra-shahzad-52a51427b).
 - [GitHub](https://github.com/yourusername)
 
 ## 📬 Contact
 
-To connect with me, feel free to drop me an email at your.email@example.com.
+To connect with me, feel free to drop me an email at iqrashahzadwd@gmail.com.
 
-## 🚧 Current Projects
-
-1. [Project Name 1](Link)
-   - Brief description of the project.
-
-2. [Project Name 2](Link)
-   - Brief description of the project.
 
 ## 🌱 Future Goals
 
