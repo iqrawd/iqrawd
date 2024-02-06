@@ -1,7 +1,7 @@
 ![Background](https://media.licdn.com/dms/image/D4D16AQGrlBgbFmGuMQ/profile-displaybackgroundimage-shrink_350_1400/0/1686755726569?e=1712793600&v=beta&t=FeYPJHIHbvjIdm6t9rYOs549NuNdLXTLiBbYFMtX7aw)
 # My Coding World 🚀
 
-Hello, friends! 👋 My name is "Iqra Shehzad", and I'm a passionate web developer on a journey of exploration in the realm of technology.
+Hello, friends! 👋 My name is "Iqra Shahzad", and I'm a passionate web developer on a journey of exploration in the realm of technology.
 
 ## 🛠️ Skills
 - **Web Development:** HTML5, CSS, JavaScript.
@@ -14,7 +14,7 @@ Hello, friends! 👋 My name is "Iqra Shehzad", and I'm a passionate web develop
 ## 🌐 Social Media
 
 - [LinkedIn](https://www.linkedin.com/in/iqra-shahzad-52a51427b/).
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/iqrawd)
 
 ## 📬 Contact
 
