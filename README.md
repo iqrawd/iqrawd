@@ -14,7 +14,7 @@ Hello, Coders! 👋 My name is "Iqra Shahzad", and I'm a passionate web develope
 ## 🌐 Social Media
 
 - [LinkedIn](https://www.linkedin.com/in/iqra-shahzad-52a51427b/).
-- [GitHub](https://github.com/iqrawd)
+
 
 ## 📬 Contact
 
